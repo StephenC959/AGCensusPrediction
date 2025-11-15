@@ -4,6 +4,7 @@
 ## Teammates
 - Stephen Cox, ssj63
 - Shazz Momin, wzu2
+- Prabesh Shrestha hdw48
 
 ## Project Abstract
 The goal of this project is to use past agricultural census to build a model that can predict crop yield for Texas farms and explore the meaning of what our model predicts
