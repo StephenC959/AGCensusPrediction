@@ -1,4 +1,4 @@
-# Project Proposal Title:
+# Project Title:
 *NASS Crop Yield Predictor and Analysis for Texas farms*
 
 ## Teammates
